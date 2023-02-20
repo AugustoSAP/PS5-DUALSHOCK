@@ -9,7 +9,7 @@
 
 ## :page_facing_up: Explicação
 
-Este projeto veio de uma série de 30 vídeos no canal do Rodolfo Mori no Youtube, esse projeto em específico foi dividido em três partes episódios.  
+Este projeto veio de uma série de 3 vídeos no canal do Rodolfo Mori no Youtube, esse projeto em específico foi dividido em três partes episódios.  
  
 O projeto conta com uma página para a compra do novo Controle Dualshock para PS5, conta com o design responsivo, ou seja, se adapta a todo tamanho de tela conforme necessite e possui animações feitas com CSS puro. 
 
@@ -42,7 +42,6 @@ Crie uma tela bem estruturada, com imagens , navegação, informações do produ
 - [HTML](https://www.w3schools.com/TAgs/default.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
 - [Netlify](https://www.netlify.com/)
-
 
 
 
