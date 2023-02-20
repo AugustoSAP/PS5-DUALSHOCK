@@ -5,7 +5,7 @@
 
 > 🔎 Os controles do Playstation 5 podem ser comprados nesta página especial.
 
-🗔 <a href="https://ps5-3.netlify.app/"> A aplicação já está no ar 🎉 </a><br>
+🗔 <a href="https://heroic-genie-635e5d.netlify.app/"> A aplicação já está no ar 🎉 </a><br>
 
 ## :page_facing_up: Explicação
 
